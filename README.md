@@ -1,2 +1,2 @@
 # aspera-desktop-sdk-ts
-IBM Aspera for desktop JavaScript SDK
+IBM Aspera for desktop TypeScript SDK
